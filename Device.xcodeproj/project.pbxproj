@@ -78,6 +78,7 @@
 		001C44691C3C08C000F6599D /* Device.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Device.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		001C446C1C3C08C000F6599D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		001C446D1C3C08C000F6599D /* Device.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Device.h; sourceTree = "<group>"; };
+		62E7B1141F28FC1E0094D6F5 /* DeviceSCC.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = DeviceSCC.podspec; sourceTree = "<group>"; };
 		BE11EEE71BE3FC0300816835 /* Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE11EEFC1BE3FD9200816835 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Example/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
 		BE11EEFD1BE3FD9200816835 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Example/Assets.xcassets; sourceTree = SOURCE_ROOT; };
@@ -147,6 +148,7 @@
 		BE11EEDE1BE3FC0300816835 = {
 			isa = PBXGroup;
 			children = (
+				62E7B1141F28FC1E0094D6F5 /* DeviceSCC.podspec */,
 				BE11EF0C1BE3FFEB00816835 /* Source */,
 				BE11EEE91BE3FC0300816835 /* Example */,
 				E2C023C01D6338BB0033AD25 /* Example macOS */,
